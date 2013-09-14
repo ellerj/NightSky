@@ -3,3 +3,4 @@ This file is to confirm that everyone can access and edit the repository.
 Add your name to the bottom of this file to prove everything works.
 
 -Andrew
+-Eric
