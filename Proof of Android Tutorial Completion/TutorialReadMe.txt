@@ -1,0 +1,1 @@
+Put up a folder in this folder of your project or exe file that is a completed android hello world app that includes a working button
